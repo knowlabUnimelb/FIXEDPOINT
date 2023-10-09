@@ -1,0 +1,7 @@
+mixface0202 - 3/8 A + 1/8 B + 3/8 C + 1/8 D
+
+mixface0204 - 1/8 A + 3/8 B + 3/8 C + 1/8 D
+
+mixface0402 - 3/8 A + 1/8 B + 1/8 C + 3/8 D
+
+mixface0404 - 1/8 A + 3/8 B + 1/8 C + 3/8 D
